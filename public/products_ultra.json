@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "img": "/images/jim(1).png",
+      "name": "Dumble_1",
+      "text": "Use the Dumble_1 instrument For Exercise  Use the instrument For             Exercise. Use the instrument For Exercise.",
+      "age": "For Age: 20-30",
+      "time": "Time Required:20s"
+    },
+    {
+      "id": 2,      
+      "img": "/images/jim(2).png",
+      "name": "Dumble_2",
+      "text": "Use the Dumble_2instrument For Exercise  Use the instrument For             Exercise. Use the instrument For Exercise.",
+      "age": "For Age: 25-30",
+      "time": "Time Required:25s"
+    },
+    {
+      "id": 3,
+      "img": "/images/jim(3).png",
+      "name": "Dumble_3",
+      "text": "Use the Dumble_3 instrument For Exercise  Use the instrument For             Exercise. Use the instrument For Exercise.",
+      "age": "For Age: 25-35",
+      "time": "Time Required:15s"
+    },
+    {
+      "id": 4,
+      "img": "/images/jim(4).png",
+      "name": "Dumble_4",
+      "text": "Use the Dumble_4 instrument For Exercise. Use the instrument For                 Exercise. Use the instrument For Exercise",
+      "age":"For Age: 35-45",
+      "time": "Time Required:25s"
+    },
+    {
+      "id": 5,
+      "img": "/images/jim(5).png",
+      "name": "Dumble_5",
+      "text": "Use the Dumble_5 instrument For Exercise. Use the instrument For            Exercise.Use the instrument For Exercise",
+      "age": " For Age: 10-15",
+      "time": "Time Required:35s"
+    },
+    {
+      "id": 6,
+      "img": "/images/jim(6).jpg",
+      "name": "Dumble_6",
+      "text": "Use the Dumble_6 instrument For Exercise. Use the instrument For Exercise.  Use the instrument For Exercise",
+      "age": "For Age: 15-25",
+      "time": "Time Required:30s"
+    }
+  ]
