@@ -5,7 +5,7 @@
       "name": "Dumble_1",
       "text": "Use the Dumble_1 instrument For Exercise  Use the instrument For             Exercise. Use the instrument For Exercise.",
       "age": "For Age: 20-30",
-      "time": "Time Required:20s"
+      "time": 20
     },
     {
       "id": 2,      
@@ -13,7 +13,7 @@
       "name": "Dumble_2",
       "text": "Use the Dumble_2instrument For Exercise  Use the instrument For             Exercise. Use the instrument For Exercise.",
       "age": "For Age: 25-30",
-      "time": "Time Required:25s"
+      "time": 25
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
       "name": "Dumble_3",
       "text": "Use the Dumble_3 instrument For Exercise  Use the instrument For             Exercise. Use the instrument For Exercise.",
       "age": "For Age: 25-35",
-      "time": "Time Required:15s"
+      "time": 15
     },
     {
       "id": 4,
@@ -29,7 +29,7 @@
       "name": "Dumble_4",
       "text": "Use the Dumble_4 instrument For Exercise. Use the instrument For                 Exercise. Use the instrument For Exercise",
       "age":"For Age: 35-45",
-      "time": "Time Required:25s"
+      "time": 25
     },
     {
       "id": 5,
@@ -37,7 +37,7 @@
       "name": "Dumble_5",
       "text": "Use the Dumble_5 instrument For Exercise. Use the instrument For            Exercise.Use the instrument For Exercise",
       "age": " For Age: 10-15",
-      "time": "Time Required:35s"
+      "time": 35
     },
     {
       "id": 6,
@@ -45,6 +45,6 @@
       "name": "Dumble_6",
       "text": "Use the Dumble_6 instrument For Exercise. Use the instrument For Exercise.  Use the instrument For Exercise",
       "age": "For Age: 15-25",
-      "time": "Time Required:30s"
+      "time": 30
     }
   ]
