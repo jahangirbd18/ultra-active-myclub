@@ -6,6 +6,7 @@ const TimeSelector = () => {
   const times = [10, 20, 30, 40, 50]; 
 
     return (
+      <div>
         <div className="time-selector">
           {
           times.map(time => (
@@ -14,15 +15,17 @@ const TimeSelector = () => {
             className={`time-option ${selectedTime === time ? 'selected' : ''}`}
             onClick={() => setSelectedTime(time)}>{time}s
           </div>          
-        ))}
-                
-        {
-        selectedTime !== null && (
-          <div> 
-             Selected Time: {selectedTime}s
-          </div>)
-          }
-      </div>
+        ))}    
+        
+        
+        </div>
+      <div> 
+             
+        <h2>Break Time: {selectedTime !== null ? 
+        `${selectedTime}s` : 'None'}</h2>
+       
+       </div>
+  </div>
     );
 };
 
