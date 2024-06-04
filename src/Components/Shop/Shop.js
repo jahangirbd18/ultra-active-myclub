@@ -36,23 +36,24 @@ const[time, setTime]=useState([]);
                          
                 <div className='cart-header'>
                    <img src={logo} alt=""/>
-                   <h2>Md. Jahangir Hossain</h2> 
+                   <h2>MD. JAHANGIR HOSSAIN</h2> 
                 </div>                                              
-                    <div className='weight'>
-                       <div>75kg</div>
-                       <div>75kg</div>
-                       <div>75kg</div>                       
+                    <div className='person'>
+                       <div className='weight'> <p>75kg</p><p>Weight</p> </div>
+                       <div className='height'><p>5.6</p><p>height</p></div>
+                       <div className='age'> <p>25</p><p>years</p> </div>                                             
                    </div>  
                 <div className='detail'>
-                <h1> Add a Break: </h1>  
+                <h1> Add a Break(click): </h1>  
                      <TimeSelector></TimeSelector>
                     <div>
-                    <h2>Exercise Time: {time.reduce((acc, curr) => acc + curr, 0)} s</h2>
+                    <h2>Exercise Time: 
+                    {time.reduce((acc, curr) => acc + curr, 0)} s</h2>
                     </div>             
                                       
                 </div>
                          
-                <button><p> Activity Completed</p></button>                
+                <button className='button'><p> Activity Completed</p></button>                
 
             </div>                 
                
