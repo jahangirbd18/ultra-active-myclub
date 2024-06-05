@@ -53,7 +53,8 @@ const[time, setTime]=useState([]);
                                       
                 </div>
                          
-                <button className='button'><p> Activity Completed</p></button>                
+                <button className='button'><p> Activity Completed</p></button>  
+                              
 
             </div>                 
                
